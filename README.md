@@ -1,2 +1,11 @@
 # 221-lab5
-Final lab for CSE 221
+
+- [ ] Init Display
+- [ ] Snake Mgmt
+  - [ ] Movement
+  - [ ] Eating Food
+  - [ ] Growing Longer
+- [ ] Time Mgmt
+  - [ ] Speed
+  - [ ] Polling
+- [ ] Teardown
